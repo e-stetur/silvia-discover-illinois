@@ -1,2 +1,2 @@
-# silvia-discover-illinois
+# silvia-discover-illinoi
 Illinois Tourism Website
